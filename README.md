@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/mseep-audited.png)](https://mseep.ai/app/supercurses-powerpoint)
+
 # powerpoint MCP server
 
 A MCP server project that creates powerpoint presentations
